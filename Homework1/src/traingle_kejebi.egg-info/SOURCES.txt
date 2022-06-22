@@ -1,0 +1,9 @@
+LICENSE
+setup.cfg
+setup.py
+src/traingle/__init__.py
+src/traingle/traingle_kejebi.py
+src/traingle_kejebi.egg-info/PKG-INFO
+src/traingle_kejebi.egg-info/SOURCES.txt
+src/traingle_kejebi.egg-info/dependency_links.txt
+src/traingle_kejebi.egg-info/top_level.txt
